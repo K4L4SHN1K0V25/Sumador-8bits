@@ -1,0 +1,82 @@
+# Compile of Medio_sumador.v was successful.
+# Compile of Sumador_4bits.v was successful.
+# Compile of Sumador_4bits_tb.v was successful.
+# Compile of Sumador_8bits.v was successful.
+# Compile of Sumador_completo.v was successful.
+# Compile of Sumador_completo_tb.v was successful.
+# Compile of Sumador_8bits_tb.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.Sumador_8bits_tb
+# vsim work.Sumador_8bits_tb 
+# Start time: 03:53:50 on Sep 28,2021
+# Loading work.Sumador_8bits_tb
+# Loading work.Sumador_8bits
+# Loading work.Sumador_4bits
+# Loading work.Sumador_completo
+# Loading work.Medio_sumador
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (4) for port 'D4'. The port definition is at: C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits.v(6).
+#    Time: 0 ns  Iteration: 0  Instance: /Sumador_8bits_tb/suma8/S4_1 File: C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits.v Line: 13
+add wave -position end  sim:/Sumador_8bits_tb/A8_tb
+add wave -position end  sim:/Sumador_8bits_tb/B8_tb
+add wave -position end  sim:/Sumador_8bits_tb/C8_tb
+add wave -position end  sim:/Sumador_8bits_tb/D8_tb
+run -all
+# ** Note: $stop    : C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v(40)
+#    Time: 400 ns  Iteration: 0  Instance: /Sumador_8bits_tb
+# Break in Module Sumador_8bits_tb at C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v line 40
+# Compile of Medio_sumador.v was successful.
+# Compile of Sumador_4bits.v was successful.
+# Compile of Sumador_4bits_tb.v was successful.
+# Compile of Sumador_8bits.v was successful.
+# Compile of Sumador_completo.v was successful.
+# Compile of Sumador_completo_tb.v was successful.
+# Compile of Sumador_8bits_tb.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.Sumador_8bits_tb
+# End time: 03:56:41 on Sep 28,2021, Elapsed time: 0:02:51
+# Errors: 0, Warnings: 4
+# vsim work.Sumador_8bits_tb 
+# Start time: 03:56:41 on Sep 28,2021
+# Loading work.Sumador_8bits_tb
+# Loading work.Sumador_8bits
+# Loading work.Sumador_4bits
+# Loading work.Sumador_completo
+# Loading work.Medio_sumador
+add wave -position end  sim:/Sumador_8bits_tb/A8_tb
+add wave -position end  sim:/Sumador_8bits_tb/B8_tb
+add wave -position end  sim:/Sumador_8bits_tb/C8_tb
+add wave -position end  sim:/Sumador_8bits_tb/D8_tb
+run -all
+# ** Note: $stop    : C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v(40)
+#    Time: 400 ns  Iteration: 0  Instance: /Sumador_8bits_tb
+# Break in Module Sumador_8bits_tb at C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v line 40
+# Compile of Medio_sumador.v was successful.
+# Compile of Sumador_4bits.v was successful.
+# Compile of Sumador_4bits_tb.v was successful.
+# Compile of Sumador_8bits.v was successful.
+# Compile of Sumador_completo.v was successful.
+# Compile of Sumador_completo_tb.v was successful.
+# Compile of Sumador_8bits_tb.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.Sumador_8bits_tb
+# End time: 04:02:56 on Sep 28,2021, Elapsed time: 0:06:15
+# Errors: 0, Warnings: 2
+# vsim work.Sumador_8bits_tb 
+# Start time: 04:02:56 on Sep 28,2021
+# Loading work.Sumador_8bits_tb
+# Loading work.Sumador_8bits
+# Loading work.Sumador_4bits
+# Loading work.Sumador_completo
+# Loading work.Medio_sumador
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (4) for port 'D4'. The port definition is at: C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits.v(6).
+#    Time: 0 ns  Iteration: 0  Instance: /Sumador_8bits_tb/suma8/S4_1 File: C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits.v Line: 13
+add wave -position end  sim:/Sumador_8bits_tb/A8_tb
+add wave -position end  sim:/Sumador_8bits_tb/B8_tb
+add wave -position end  sim:/Sumador_8bits_tb/C8_tb
+add wave -position end  sim:/Sumador_8bits_tb/D8_tb
+run -all
+# ** Note: $stop    : C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v(40)
+#    Time: 400 ns  Iteration: 0  Instance: /Sumador_8bits_tb
+# Break in Module Sumador_8bits_tb at C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v line 40
+# End time: 00:42:03 on Oct 02,2021, Elapsed time: 92:39:07
+# Errors: 0, Warnings: 2

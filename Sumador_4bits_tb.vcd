@@ -1,0 +1,208 @@
+$date
+	Tue Sep 28 03:28:43 2021
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ns
+$end
+
+$scope module Sumador_4bits_tb $end
+$var reg 4 ! A_tb [3:0] $end
+$var reg 4 " B_tb [3:0] $end
+$var reg 1 # C_tb $end
+$var wire 1 $ D_tb [4] $end
+$var wire 1 % D_tb [3] $end
+$var wire 1 & D_tb [2] $end
+$var wire 1 ' D_tb [1] $end
+$var wire 1 ( D_tb [0] $end
+$var wire 1 ) E_tb $end
+
+$scope module suma $end
+$var wire 1 * A4 [3] $end
+$var wire 1 + A4 [2] $end
+$var wire 1 , A4 [1] $end
+$var wire 1 - A4 [0] $end
+$var wire 1 . B4 [3] $end
+$var wire 1 / B4 [2] $end
+$var wire 1 0 B4 [1] $end
+$var wire 1 1 B4 [0] $end
+$var wire 1 2 Ci $end
+$var wire 1 $ D4 [4] $end
+$var wire 1 % D4 [3] $end
+$var wire 1 & D4 [2] $end
+$var wire 1 ' D4 [1] $end
+$var wire 1 ( D4 [0] $end
+$var wire 1 ) E4 $end
+$var wire 1 3 c1 $end
+$var wire 1 4 c2 $end
+$var wire 1 5 c3 $end
+$var wire 1 6 c4 $end
+
+$scope module Fa1 $end
+$var wire 1 - A $end
+$var wire 1 1 B $end
+$var wire 1 2 C $end
+$var wire 1 ( D $end
+$var wire 1 3 E $end
+$var wire 1 7 c1 $end
+$var wire 1 8 c2 $end
+$var wire 1 9 c3 $end
+
+$scope module HA1 $end
+$var wire 1 - B1 $end
+$var wire 1 1 B2 $end
+$var wire 1 7 S1 $end
+$var wire 1 8 Ca1 $end
+$upscope $end
+
+$scope module HA2 $end
+$var wire 1 7 B1 $end
+$var wire 1 2 B2 $end
+$var wire 1 ( S1 $end
+$var wire 1 9 Ca1 $end
+$upscope $end
+$upscope $end
+
+$scope module Fa2 $end
+$var wire 1 , A $end
+$var wire 1 0 B $end
+$var wire 1 3 C $end
+$var wire 1 ' D $end
+$var wire 1 4 E $end
+$var wire 1 : c1 $end
+$var wire 1 ; c2 $end
+$var wire 1 < c3 $end
+
+$scope module HA1 $end
+$var wire 1 , B1 $end
+$var wire 1 0 B2 $end
+$var wire 1 : S1 $end
+$var wire 1 ; Ca1 $end
+$upscope $end
+
+$scope module HA2 $end
+$var wire 1 : B1 $end
+$var wire 1 3 B2 $end
+$var wire 1 ' S1 $end
+$var wire 1 < Ca1 $end
+$upscope $end
+$upscope $end
+
+$scope module Fa3 $end
+$var wire 1 + A $end
+$var wire 1 / B $end
+$var wire 1 4 C $end
+$var wire 1 & D $end
+$var wire 1 5 E $end
+$var wire 1 = c1 $end
+$var wire 1 > c2 $end
+$var wire 1 ? c3 $end
+
+$scope module HA1 $end
+$var wire 1 + B1 $end
+$var wire 1 / B2 $end
+$var wire 1 = S1 $end
+$var wire 1 > Ca1 $end
+$upscope $end
+
+$scope module HA2 $end
+$var wire 1 = B1 $end
+$var wire 1 4 B2 $end
+$var wire 1 & S1 $end
+$var wire 1 ? Ca1 $end
+$upscope $end
+$upscope $end
+
+$scope module Fa4 $end
+$var wire 1 * A $end
+$var wire 1 . B $end
+$var wire 1 5 C $end
+$var wire 1 % D $end
+$var wire 1 $ E $end
+$var wire 1 @ c1 $end
+$var wire 1 A c2 $end
+$var wire 1 B c3 $end
+
+$scope module HA1 $end
+$var wire 1 * B1 $end
+$var wire 1 . B2 $end
+$var wire 1 @ S1 $end
+$var wire 1 A Ca1 $end
+$upscope $end
+
+$scope module HA2 $end
+$var wire 1 @ B1 $end
+$var wire 1 5 B2 $end
+$var wire 1 % S1 $end
+$var wire 1 B Ca1 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 !
+b1 "
+0#
+0(
+1'
+0&
+0%
+0$
+0)
+13
+04
+05
+z6
+07
+18
+09
+0:
+0;
+0<
+0=
+0>
+0?
+0@
+0A
+0B
+02
+11
+00
+0/
+0.
+1-
+0,
+0+
+0*
+$end
+#100
+b11 !
+b11 "
+10
+1,
+1;
+14
+1&
+#200
+b111 !
+b111 "
+1/
+1+
+1>
+15
+1%
+#300
+b1111 !
+b1111 "
+1#
+1.
+1*
+12
+1(
+1A
+1$
+1)

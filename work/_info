@@ -1,0 +1,179 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HP/Documents/ModelSim/Sumador 4bits
+vMedio_sumador
+Z0 !s110 1632819771
+!i10b 1
+!s100 WaW`GXS=G[Y:O`zLKbk0g3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+InQL`nV`T8k;VjVH4RX^a;0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/HP/Documents/ModelSim/Sumador 8bits
+w1632356248
+8C:/Users/HP/Documents/ModelSim/Sumador 8bits/Medio_sumador.v
+FC:/Users/HP/Documents/ModelSim/Sumador 8bits/Medio_sumador.v
+!i122 415
+L0 2 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1632819770.000000
+!s107 C:/Users/HP/Documents/ModelSim/Sumador 8bits/Medio_sumador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/Documents/ModelSim/Sumador 8bits/Medio_sumador.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@medio_sumador
+vSumador_4bits
+R0
+!i10b 1
+!s100 W]OLKGFX0YLB4f4cemL^51
+R1
+I9[6b=RJR72@bn2DBSBg9n3
+R2
+R3
+w1632818173
+8C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits.v
+FC:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits.v
+!i122 416
+Z7 L0 2 46
+R4
+r1
+!s85 0
+31
+Z8 !s108 1632819771.000000
+!s107 C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits.v|
+!i113 1
+R5
+R6
+n@sumador_4bits
+vSumador_4bits_tb
+R0
+!i10b 1
+!s100 kLiF3b[jJhmL5i6bmmeff2
+R1
+IV9f:GC>7:99P=5;JUO=n]1
+R2
+R3
+w1632817705
+8C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits_tb.v
+FC:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits_tb.v
+!i122 417
+L0 2 55
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits_tb.v|
+!i113 1
+R5
+R6
+n@sumador_4bits_tb
+vSumador_8bits
+R0
+!i10b 1
+!s100 P9o@2cC@EfX3Zc[0d;kR_3
+R1
+IizJzCZaASUXH0K]Z5Z4l82
+R2
+R3
+w1632819763
+8C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits.v
+FC:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits.v
+!i122 418
+L0 2 32
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits.v|
+!i113 1
+R5
+R6
+n@sumador_8bits
+vSumador_8bits_tb
+Z9 !s110 1632819772
+!i10b 1
+!s100 zk5<Q0MYXR^g;hjhaWo;Y3
+R1
+IXX=A=8Ge]dQEgCgNoo@ee1
+R2
+R3
+w1632818361
+8C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v
+FC:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v
+!i122 421
+L0 2 54
+R4
+r1
+!s85 0
+31
+Z10 !s108 1632819772.000000
+!s107 C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v|
+!i113 1
+R5
+R6
+n@sumador_8bits_tb
+vSumador_completo
+R9
+!i10b 1
+!s100 6lR6c`cG3gOYdmDFJ9c=W2
+R1
+IGhD4?CEFZkf8BlS[MSb@f3
+R2
+R3
+w1631747510
+8C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo.v
+FC:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo.v
+!i122 419
+L0 2 28
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo.v|
+!i113 1
+R5
+R6
+n@sumador_completo
+vSumador_completo_tb
+R9
+!i10b 1
+!s100 l:YE2Rz6cGboZ>=G52MVE1
+R1
+IP9jdWl2Uo6:]a^@[jGU>:2
+R2
+R3
+w1631747602
+8C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo_tb.v
+FC:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo_tb.v
+!i122 420
+R7
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo_tb.v|
+!i113 1
+R5
+R6
+n@sumador_completo_tb

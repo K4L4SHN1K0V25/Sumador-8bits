@@ -1,0 +1,50 @@
+{C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo_tb.v} {1 {vlog -work work -stats=none {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sumador_completo_tb
+
+Top level modules:
+	Sumador_completo_tb
+
+} {} {}} {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits.v} {1 {vlog -work work -stats=none {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sumador_8bits
+
+Top level modules:
+	Sumador_8bits
+
+} {} {}} {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Medio_sumador.v} {1 {vlog -work work -stats=none {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Medio_sumador.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Medio_sumador
+
+Top level modules:
+	Medio_sumador
+
+} {} {}} {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits.v} {1 {vlog -work work -stats=none {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sumador_4bits
+
+Top level modules:
+	Sumador_4bits
+
+} {} {}} {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo.v} {1 {vlog -work work -stats=none {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_completo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sumador_completo
+
+Top level modules:
+	Sumador_completo
+
+} {} {}} {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits_tb.v} {1 {vlog -work work -stats=none {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_4bits_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sumador_4bits_tb
+
+Top level modules:
+	Sumador_4bits_tb
+
+} {} {}} {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v} {1 {vlog -work work -stats=none {C:/Users/HP/Documents/ModelSim/Sumador 8bits/Sumador_8bits_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sumador_8bits_tb
+
+Top level modules:
+	Sumador_8bits_tb
+
+} {} {}}
